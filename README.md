@@ -18,3 +18,6 @@ Run GraphQL queries with NodeJS and express. The openAPI used for the project: h
     > npm start
 5. Then run the below and it will return a queried object in the terminal and write it to the response folder:
     > npm test 
+
+6. Command to ignore changes to the "keys.js" file.
+    > git update-index --assume-unchanged api/keys.js
