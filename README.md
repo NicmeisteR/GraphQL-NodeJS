@@ -4,7 +4,7 @@ Run GraphQL queries with NodeJS and express. The openAPI used for the project: h
 # Setup
 1. Get a API key from [HaloAPI](https://developer.haloapi.com).
 2. Replace the below '{{ your-api-key }}' with your api key in the keys file:
-    ```json 
+    ```js 
     module.exports.config = {
         halo: {
             desc: 'ocp-apim-subscription-key',
