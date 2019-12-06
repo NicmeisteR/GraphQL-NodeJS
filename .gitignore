@@ -1,2 +1,4 @@
-node_modules
+# Ignore API Keys.
 api/keys.js
+# Ignore Node Modules.
+node_modules
