@@ -15,14 +15,6 @@ const { config } = require("./api/keys");
 // // Read API Keys/Endpoints
 // eval(fs.readFileSync(`./keys.js`)+'');
 
-// // Api Keys
-// const config = {
-//   halo: {
-//       desc: 'ocp-apim-subscription-key',
-//       key: 'f4bfe0061ba84032b87aeb1c00600dc3'
-//   }
-// }
-
 // ███████╗██╗   ██╗███╗   ██╗ ██████╗████████╗██╗ ██████╗ ███╗   ██╗███████╗
 // ██╔════╝██║   ██║████╗  ██║██╔════╝╚══██╔══╝██║██╔═══██╗████╗  ██║██╔════╝
 // █████╗  ██║   ██║██╔██╗ ██║██║        ██║   ██║██║   ██║██╔██╗ ██║███████╗
